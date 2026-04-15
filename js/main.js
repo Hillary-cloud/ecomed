@@ -379,8 +379,8 @@
             15-2. Slider Active 2
         --------------------------------------------------------- */
         $('.ltn__slide-active-2').slick({
-            autoplay: false,
-            autoplaySpeed: 2000,
+            autoplay: true,
+            autoplaySpeed: 5000,
             arrows: false,
             dots: true,
             fade: true,
